@@ -1,0 +1,11 @@
+../Core/Src/traffic_led_control.c:19:6:LightOff	8	static
+../Core/Src/traffic_led_control.c:24:6:Blink_Red	8	static
+../Core/Src/traffic_led_control.c:27:6:Blink_Amber	8	static
+../Core/Src/traffic_led_control.c:30:6:Blink_Green	8	static
+../Core/Src/traffic_led_control.c:34:6:UpdateTime_Red	16	static
+../Core/Src/traffic_led_control.c:38:6:UpdateTime_Amber	16	static
+../Core/Src/traffic_led_control.c:42:6:UpdateTime_Green	16	static
+../Core/Src/traffic_led_control.c:47:6:Reset_Light	4	static
+../Core/Src/traffic_led_control.c:52:6:Traffic_Light_0	8	static
+../Core/Src/traffic_led_control.c:83:6:Traffic_Light_1	8	static
+../Core/Src/traffic_led_control.c:114:6:Traffic_Light_Run	8	static

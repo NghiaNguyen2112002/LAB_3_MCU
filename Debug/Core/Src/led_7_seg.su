@@ -1,0 +1,4 @@
+../Core/Src/led_7_seg.c:12:6:Enable7Seg	16	static
+../Core/Src/led_7_seg.c:37:6:Display7Seg	16	static
+../Core/Src/led_7_seg.c:93:6:UpdateLed7SegBuffer	16	static
+../Core/Src/led_7_seg.c:105:6:Update7Seg	16	static
